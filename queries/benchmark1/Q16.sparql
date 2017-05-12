@@ -1,0 +1,8 @@
+select * where {
+?d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place>.
+?d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Infrastructure>.
+?d1 <http://dbpedia.org/property/r2LengthF> ?o.
+?d2 <http://dbpedia.org/property/lats> ?o.
+?d1 <http://www.georss.org/georss/point> ?o1.
+?d2 <http://dbpedia.org/property/coordinatesRegion> ?o2.
+}

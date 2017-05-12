@@ -1,0 +1,6 @@
+select * where {
+?s1 <http://dbpedia.org/property/background> ?b.
+?s1 <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Musician>.
+?s1 <http://dbpedia.org/property/associatedActs> ?a.
+?s1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AmericanBluesMusicians>.
+}

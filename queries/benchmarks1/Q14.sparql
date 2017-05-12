@@ -1,0 +1,8 @@
+select * where {
+?d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Mountain> .
+?d1 <http://dbpedia.org/property/location> ?o1 .
+?d1 <http://www.w3.org/2003/01/geo/wgs84_pos#lat> ?o.
+?d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?s .
+?d2 <http://dbpedia.org/property/location> ?o2 .
+?d2 <http://www.w3.org/2003/01/geo/wgs84_pos#lat> ?o
+}

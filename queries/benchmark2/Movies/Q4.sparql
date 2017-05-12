@@ -1,0 +1,6 @@
+select * where {
+?s1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie>.
+?s1 <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Universal_Pictures_films>.
+?s1 <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Films_shot_in_New_York_City>.
+?s1 <http://dbpedia.org/property/music> ?l.
+}

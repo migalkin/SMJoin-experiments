@@ -1,0 +1,8 @@
+select * where {
+?d1 <http://dbpedia.org/property/released> ?o2.
+?d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/SoftwareObject>.
+?d1 <http://dbpedia.org/ontology/computingPlatform> ?o1.
+?d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> .
+?d2 <http://dbpedia.org/property/platforms> ?o.
+?d2 <http://dbpedia.org/property/developer> ?t.
+}

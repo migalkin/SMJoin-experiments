@@ -1,0 +1,8 @@
+select * where {
+?d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/School> .
+?d1 <http://dbpedia.org/property/city> ?o.
+?d1 <http://www.w3.org/2003/01/geo/wgs84_pos#lat> ?o1.
+?d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Place> .
+?d2 <http://dbpedia.org/property/location> ?o .
+?d2 <http://dbpedia.org/property/latDirection> ?o2
+}

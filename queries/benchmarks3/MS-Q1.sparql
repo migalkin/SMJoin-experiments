@@ -1,0 +1,10 @@
+select * where {
+?s1 <http://dbpedia.org/property/associatedActs> ?a.
+?s1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist>.
+?s1 <http://dbpedia.org/property/dateOfBirth> ?o3.
+?a <http://dbpedia.org/property/background> ?b.
+?a <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Composer>.
+?a <http://dbpedia.org/ontology/associatedBand> ?ab.
+?a <http://dbpedia.org/ontology/associatedMusicalArtist> ?o1.
+?a <http://dbpedia.org/property/associatedActs> ?o2
+}

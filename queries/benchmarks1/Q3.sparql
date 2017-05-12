@@ -1,0 +1,9 @@
+select * where {
+?d1 <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Steroids>.
+?d2 <http://purl.org/dc/terms/subject> ?s.
+?d1 <http://purl.org/dc/terms/subject> ?s.
+?d1 <http://dbpedia.org/ontology/chEBI> ?o1.
+?d2 <http://xmlns.com/foaf/0.1/depiction> ?o2.
+?d2 <http://dbpedia.org/ontology/iupacName> ?in.
+?d1 <http://dbpedia.org/ontology/casNumber> ?cn.
+}

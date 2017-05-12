@@ -1,0 +1,6 @@
+query	time	cardinality
+Q3.sparql	2.9217259884	46
+Q1.sparql	123.6881070137	156
+Q4.sparql	3.0482919216	56
+Q5.sparql	2.9274969101	89
+Q2.sparql	1.0712451935	44

@@ -1,0 +1,10 @@
+select * where {
+?d1 <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Steroids>.
+?d1 <http://www.w3.org/2002/07/owl#differentFrom> ?o.
+?o <http://purl.org/dc/terms/subject> ?o1.
+?o1 <http://www.w3.org/2000/01/rdf-schema#label> ?o4.
+?o1 <http://www.w3.org/ns/prov#wasDerivedFrom> ?o5.
+?o1 <http://dbpedia.org/ontology/wikiPageID> ?o6.
+?d1 <http://dbpedia.org/ontology/atcPrefix> ?o2.
+?d1 <http://dbpedia.org/ontology/atcSuffix> ?o3.
+}

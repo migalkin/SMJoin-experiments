@@ -1,0 +1,7 @@
+select * where {
+?s <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Battle100953559>.
+?s <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MilitaryAction100952963>.
+?s <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesInvolvingBritishIndia>.
+?s <http://dbpedia.org/property/combatant> ?p.
+?p <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country>
+}

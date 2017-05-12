@@ -1,0 +1,6 @@
+select * where {
+?d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Lake>.
+?d2 <http://dbpedia.org/property/cities> ?o.
+?d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/River>.
+?d1 <http://dbpedia.org/property/city> ?o.
+}

@@ -1,0 +1,6 @@
+select * where {
+?s1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?t1.
+?s1 <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Films_set_in_the_San_Francisco_Bay_Area>.
+?s1 <http://dbpedia.org/property/distributor> ?a.
+?a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?t2.
+}
