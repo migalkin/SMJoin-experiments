@@ -1,0 +1,5 @@
+select * where {
+?s1 <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Concert> .
+?s1 <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Ana_Gabriel> .
+?s1 <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Ranchera> .
+}

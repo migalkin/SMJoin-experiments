@@ -1,0 +1,7 @@
+select * where {
+?d1 <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Hereditary_cancers> .
+?d1 <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Cowden_syndrome> .
+?d1 <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.cancer.net/cancer-types/cowden-syndrome> .
+?d1 <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Epidermal_nevi,_neoplasms,_cysts> .
+?d1 <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Deficiencies_of_intracellular_signaling_peptides_and_proteins> 
+}

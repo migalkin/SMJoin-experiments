@@ -1,0 +1,5 @@
+select * where {
+?s1 <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Sitar> .
+?s1 <http://dbpedia.org/property/origin> <http://dbpedia.org/resource/Eugene,_Oregon> .
+?s1 <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/Eugene,_Oregon>. 
+}

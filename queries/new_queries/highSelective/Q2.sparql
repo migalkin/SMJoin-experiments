@@ -1,0 +1,5 @@
+select * where {
+?s1 <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Barry_Windham> .
+?s1 <http://dbpedia.org/property/resides> <http://dbpedia.org/resource/Homerville,_Georgia> .
+?s1 <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Sweetwater,_Texas>
+}

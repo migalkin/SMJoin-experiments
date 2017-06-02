@@ -1,0 +1,4 @@
+select * where {
+?s1 <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Monoclonal_antibodies> .
+?s1 <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Antineoplastic_drugs> .
+}

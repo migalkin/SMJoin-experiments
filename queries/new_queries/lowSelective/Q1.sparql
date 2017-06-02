@@ -1,0 +1,5 @@
+select * where {
+?d1 <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Piano> .
+?d1 <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/Italy> .
+?d1 <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Pop_music> .
+}
