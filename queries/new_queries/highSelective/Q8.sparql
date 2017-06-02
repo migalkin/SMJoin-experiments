@@ -1,6 +1,6 @@
 select * where {
 ?s1 <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Singing> .
-?s1 <http://dbpedia.org/ontology/genre>  <http://dbpedia.org/resource/Soul_music> .
+?s1 <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Soul_music> .
 ?s1 <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/Greenville,_Florida> .
 ?s1 <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/ABC_Records>
 }
