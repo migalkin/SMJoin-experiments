@@ -1,0 +1,24 @@
+Q8.sparql	{'s1': 'dbpedia:Avelumab'}	0.201066017151
+Q8.sparql	{'s1': 'dbpedia:Chemically_linked_Fab'}	0.201560020447
+Q8.sparql	{'s1': 'dbpedia:Nivolumab'}	0.2018699646
+Q8.sparql	0.201066017151	0.221462011337	3
+
+Q8.sparql	{'s1': 'dbpedia:Avelumab'}	0.171992063522
+Q8.sparql	{'s1': 'dbpedia:Chemically_linked_Fab'}	0.172224998474
+Q8.sparql	{'s1': 'dbpedia:Nivolumab'}	0.17351102829
+Q8.sparql	0.171992063522	0.191541194916	3
+
+Q8.sparql	{'s1': 'dbpedia:Avelumab'}	0.206602096558
+Q8.sparql	{'s1': 'dbpedia:Chemically_linked_Fab'}	0.20679807663
+Q8.sparql	{'s1': 'dbpedia:Nivolumab'}	0.206892967224
+Q8.sparql	0.206602096558	0.207015991211	3
+
+Q8.sparql	{'s1': 'dbpedia:Avelumab'}	0.225121974945
+Q8.sparql	{'s1': 'dbpedia:Chemically_linked_Fab'}	0.225545883179
+Q8.sparql	{'s1': 'dbpedia:Nivolumab'}	0.225781917572
+Q8.sparql	0.225121974945	0.236568927765	3
+
+Q8.sparql	{'s1': 'dbpedia:Avelumab'}	0.219589948654
+Q8.sparql	{'s1': 'dbpedia:Chemically_linked_Fab'}	0.227088928223
+Q8.sparql	{'s1': 'dbpedia:Nivolumab'}	0.227221012115
+Q8.sparql	0.219589948654	0.255343914032	3
