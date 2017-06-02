@@ -1,0 +1,34 @@
+{'d1': 'dbpedia:Acetazolamide'} 0.392585039139
+{'d1': 'dbpedia:Carbamazepine'} 0.644561052322
+{'d1': 'dbpedia:Fluoxetine'} 1.07257699966
+{'d1': 'dbpedia:Phenytoin'} 1.59372091293
+{'d1': 'dbpedia:Valproic_acid'} 1.99257993698
+Q4.sparql 	0.392585039139 	2.03255796432 	5
+
+{'d1': 'dbpedia:Acetazolamide'} 0.358005046844
+{'d1': 'dbpedia:Carbamazepine'} 0.554058074951
+{'d1': 'dbpedia:Fluoxetine'} 0.981991052628
+{'d1': 'dbpedia:Phenytoin'} 1.57402205467
+{'d1': 'dbpedia:Valproic_acid'} 1.9590909481
+Q4.sparql 	0.358005046844 	2.02201509476 	5
+
+{'d1': 'dbpedia:Acetazolamide'} 0.384141921997
+{'d1': 'dbpedia:Carbamazepine'} 0.592123985291
+{'d1': 'dbpedia:Fluoxetine'} 0.944402933121
+{'d1': 'dbpedia:Phenytoin'} 1.43213796616
+{'d1': 'dbpedia:Valproic_acid'} 1.90010499954
+Q4.sparql 	0.384141921997 	1.90598702431 	5
+
+{'d1': 'dbpedia:Acetazolamide'} 0.374600887299
+{'d1': 'dbpedia:Carbamazepine'} 0.578618049622
+{'d1': 'dbpedia:Fluoxetine'} 1.04656195641
+{'d1': 'dbpedia:Phenytoin'} 1.60657000542
+{'d1': 'dbpedia:Valproic_acid'} 2.03857493401
+Q4.sparql 	0.374600887299 	2.07470297813 	5
+
+{'d1': 'dbpedia:Acetazolamide'} 0.361227989197
+{'d1': 'dbpedia:Carbamazepine'} 0.559761047363
+{'d1': 'dbpedia:Fluoxetine'} 1.08918309212
+{'d1': 'dbpedia:Phenytoin'} 1.68119001389
+{'d1': 'dbpedia:Valproic_acid'} 2.10121488571
+Q4.sparql 	0.361227989197 	2.10126304626 	5

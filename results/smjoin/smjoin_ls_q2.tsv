@@ -1,0 +1,24 @@
+{'s1': 'dbpedia:Association_football'} 0.463965177536
+{'s1': 'dbpedia:Basketball'} 0.464086055756
+{'s1': 'dbpedia:Cycle_polo'} 0.835932016373
+Q2.sparql 	0.463965177536 	2.75197005272 	3
+
+{'s1': 'dbpedia:Association_football'} 0.401186943054
+{'s1': 'dbpedia:Basketball'} 0.421159982681
+{'s1': 'dbpedia:Cycle_polo'} 0.897162914276
+Q2.sparql 	0.401186943054 	2.94921898842 	3
+
+{'s1': 'dbpedia:Association_football'} 0.420144081116
+{'s1': 'dbpedia:Basketball'} 0.420352935791
+{'s1': 'dbpedia:Cycle_polo'} 0.848140954971
+Q2.sparql 	0.420144081116 	2.97615599632 	3
+
+{'s1': 'dbpedia:Association_football'} 0.507874965668
+{'s1': 'dbpedia:Basketball'} 0.507991075516
+{'s1': 'dbpedia:Cycle_polo'} 0.876749038696
+Q2.sparql 	0.507874965668 	2.99988603592 	3
+
+{'s1': 'dbpedia:Association_football'} 0.507740974426
+{'s1': 'dbpedia:Basketball'} 0.507961988449
+{'s1': 'dbpedia:Cycle_polo'} 0.923789978027
+Q2.sparql 	0.507740974426 	3.13583302498 	3

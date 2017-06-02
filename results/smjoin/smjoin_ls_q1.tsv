@@ -1,0 +1,64 @@
+{'d1': 'dbpedia:Amedeo_Minghi'} 0.788759946823
+{'d1': 'dbpedia:Elisa_(Italian_singer)'} 2.70076298714
+{'d1': 'dbpedia:Gianna_Nannini'} 3.26875305176
+{'d1': 'dbpedia:Giovanni_Allevi'} 3.26893401146
+{'d1': "dbpedia:L'Aura"} 4.9487490654
+{'d1': 'dbpedia:Lorenzo_Piani'} 5.36074304581
+{'d1': 'dbpedia:Lucio_Battisti'} 5.50473999977
+{'d1': 'dbpedia:Mariolino_Barberis'} 5.78473997116
+{'d1': 'dbpedia:Peppino_di_Capri'} 6.98477602005
+{'d1': 'dbpedia:Silvia_Olari'} 7.95274710655
+{'d1': 'dbpedia:Virginio_Simonelli'} 9.66474294662
+Q1.sparql 	0.788759946823 	10.6129500866 	11
+
+{'d1': 'dbpedia:Amedeo_Minghi'} 0.816687107086
+{'d1': 'dbpedia:Elisa_(Italian_singer)'} 2.90069413185
+{'d1': 'dbpedia:Gianna_Nannini'} 3.4806830883
+{'d1': 'dbpedia:Giovanni_Allevi'} 3.48086595535
+{'d1': "dbpedia:L'Aura"} 5.04071497917
+{'d1': 'dbpedia:Lorenzo_Piani'} 5.40467309952
+{'d1': 'dbpedia:Lucio_Battisti'} 5.54867100716
+{'d1': 'dbpedia:Mariolino_Barberis'} 5.76906895638
+{'d1': 'dbpedia:Peppino_di_Capri'} 6.98067903519
+{'d1': 'dbpedia:Silvia_Olari'} 8.00067901611
+{'d1': 'dbpedia:Virginio_Simonelli'} 9.88067507744
+Q1.sparql 	0.816687107086 	10.8046901226 	11
+
+{'d1': 'dbpedia:Amedeo_Minghi'} 0.784456968307
+{'d1': 'dbpedia:Elisa_(Italian_singer)'} 2.65245199203
+{'d1': 'dbpedia:Gianna_Nannini'} 3.27418613434
+{'d1': 'dbpedia:Giovanni_Allevi'} 3.28043413162
+{'d1': "dbpedia:L'Aura"} 4.79245495796
+{'d1': 'dbpedia:Lorenzo_Piani'} 5.21727395058
+{'d1': 'dbpedia:Lucio_Battisti'} 5.35244393349
+{'d1': 'dbpedia:Mariolino_Barberis'} 5.54044413567
+{'d1': 'dbpedia:Peppino_di_Capri'} 6.74445796013
+{'d1': 'dbpedia:Silvia_Olari'} 7.59244298935
+{'d1': 'dbpedia:Virginio_Simonelli'} 9.3044500351
+Q1.sparql 	0.784456968307 	10.2605800629 	11
+
+{'d1': 'dbpedia:Amedeo_Minghi'} 0.766632080078
+{'d1': 'dbpedia:Elisa_(Italian_singer)'} 2.62263393402
+{'d1': 'dbpedia:Gianna_Nannini'} 3.21462202072
+{'d1': 'dbpedia:Giovanni_Allevi'} 3.21478796005
+{'d1': "dbpedia:L'Aura"} 4.47860598564
+{'d1': 'dbpedia:Lorenzo_Piani'} 4.74259710312
+{'d1': 'dbpedia:Lucio_Battisti'} 4.83859610558
+{'d1': 'dbpedia:Mariolino_Barberis'} 4.99059796333
+{'d1': 'dbpedia:Peppino_di_Capri'} 5.82260608673
+{'d1': 'dbpedia:Silvia_Olari'} 6.54660797119
+{'d1': 'dbpedia:Virginio_Simonelli'} 7.75065398216
+Q1.sparql 	0.766632080078 	8.45463395119 	11
+
+{'d1': 'dbpedia:Amedeo_Minghi'} 0.804589033127
+{'d1': 'dbpedia:Elisa_(Italian_singer)'} 2.61658287048
+{'d1': 'dbpedia:Gianna_Nannini'} 3.2165749073
+{'d1': 'dbpedia:Giovanni_Allevi'} 3.21672296524
+{'d1': "dbpedia:L'Aura"} 4.67258286476
+{'d1': 'dbpedia:Lorenzo_Piani'} 5.05256199837
+{'d1': 'dbpedia:Lucio_Battisti'} 5.18459105492
+{'d1': 'dbpedia:Mariolino_Barberis'} 5.43898892403
+{'d1': 'dbpedia:Peppino_di_Capri'} 6.56058096886
+{'d1': 'dbpedia:Silvia_Olari'} 7.55658197403
+{'d1': 'dbpedia:Virginio_Simonelli'} 9.23256993294
+Q1.sparql 	0.804589033127 	10.1046819687 	11
