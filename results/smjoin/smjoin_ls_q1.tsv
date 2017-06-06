@@ -9,7 +9,7 @@
 {'d1': 'dbpedia:Peppino_di_Capri'} 6.98477602005
 {'d1': 'dbpedia:Silvia_Olari'} 7.95274710655
 {'d1': 'dbpedia:Virginio_Simonelli'} 9.66474294662
-Q1.sparql 	0.788759946823 	10.6129500866 	11
+Q1.sparql 0.788759946823 10.6129500866 11
 
 {'d1': 'dbpedia:Amedeo_Minghi'} 0.816687107086
 {'d1': 'dbpedia:Elisa_(Italian_singer)'} 2.90069413185
@@ -22,7 +22,7 @@ Q1.sparql 	0.788759946823 	10.6129500866 	11
 {'d1': 'dbpedia:Peppino_di_Capri'} 6.98067903519
 {'d1': 'dbpedia:Silvia_Olari'} 8.00067901611
 {'d1': 'dbpedia:Virginio_Simonelli'} 9.88067507744
-Q1.sparql 	0.816687107086 	10.8046901226 	11
+Q1.sparql 0.816687107086 10.8046901226 11
 
 {'d1': 'dbpedia:Amedeo_Minghi'} 0.784456968307
 {'d1': 'dbpedia:Elisa_(Italian_singer)'} 2.65245199203
@@ -35,7 +35,7 @@ Q1.sparql 	0.816687107086 	10.8046901226 	11
 {'d1': 'dbpedia:Peppino_di_Capri'} 6.74445796013
 {'d1': 'dbpedia:Silvia_Olari'} 7.59244298935
 {'d1': 'dbpedia:Virginio_Simonelli'} 9.3044500351
-Q1.sparql 	0.784456968307 	10.2605800629 	11
+Q1.sparql 0.784456968307 10.2605800629 11
 
 {'d1': 'dbpedia:Amedeo_Minghi'} 0.766632080078
 {'d1': 'dbpedia:Elisa_(Italian_singer)'} 2.62263393402
@@ -48,7 +48,7 @@ Q1.sparql 	0.784456968307 	10.2605800629 	11
 {'d1': 'dbpedia:Peppino_di_Capri'} 5.82260608673
 {'d1': 'dbpedia:Silvia_Olari'} 6.54660797119
 {'d1': 'dbpedia:Virginio_Simonelli'} 7.75065398216
-Q1.sparql 	0.766632080078 	8.45463395119 	11
+Q1.sparql 0.766632080078 8.45463395119 11
 
 {'d1': 'dbpedia:Amedeo_Minghi'} 0.804589033127
 {'d1': 'dbpedia:Elisa_(Italian_singer)'} 2.61658287048
@@ -61,4 +61,4 @@ Q1.sparql 	0.766632080078 	8.45463395119 	11
 {'d1': 'dbpedia:Peppino_di_Capri'} 6.56058096886
 {'d1': 'dbpedia:Silvia_Olari'} 7.55658197403
 {'d1': 'dbpedia:Virginio_Simonelli'} 9.23256993294
-Q1.sparql 	0.804589033127 	10.1046819687 	11
+Q1.sparql 0.804589033127 10.1046819687 11

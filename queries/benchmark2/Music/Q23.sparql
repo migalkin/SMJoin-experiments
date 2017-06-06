@@ -1,0 +1,3 @@
+select * WHERE { 
+?s1 <http://dbpedia.org/property/genre> ?n.
+}
